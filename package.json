@@ -1,0 +1,10 @@
+{
+  "name": "coronapp",
+  "version": "0.0.0",
+  "description": "Landing aplicación mobile de coronapp",
+  "main": "index.js",
+  "repository": "https://github.com/ednx/coronapp.git",
+  "author": "Edwin Valencia <eovalenc@outlook.com>",
+  "license": "MIT",
+  "private": true
+}
